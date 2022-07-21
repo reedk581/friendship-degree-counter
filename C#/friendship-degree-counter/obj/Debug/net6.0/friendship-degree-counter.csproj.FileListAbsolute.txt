@@ -1,0 +1,17 @@
+C:\Users\reedk\Desktop\friendship-degree-counter\bin\Debug\net6.0\friendship-degree-counter.exe
+C:\Users\reedk\Desktop\friendship-degree-counter\bin\Debug\net6.0\friendship-degree-counter.deps.json
+C:\Users\reedk\Desktop\friendship-degree-counter\bin\Debug\net6.0\friendship-degree-counter.runtimeconfig.json
+C:\Users\reedk\Desktop\friendship-degree-counter\bin\Debug\net6.0\friendship-degree-counter.dll
+C:\Users\reedk\Desktop\friendship-degree-counter\bin\Debug\net6.0\friendship-degree-counter.pdb
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.csproj.AssemblyReference.cache
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.AssemblyInfoInputs.cache
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.AssemblyInfo.cs
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.csproj.CoreCompileInputs.cache
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.dll
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\refint\friendship-degree-counter.dll
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.pdb
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.genruntimeconfig.cache
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\ref\friendship-degree-counter.dll
+C:\Users\reedk\Desktop\friendship-degree-counter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\reedk\Desktop\friendship-degree-counter\obj\Debug\net6.0\friendship-degree-counter.csproj.CopyComplete

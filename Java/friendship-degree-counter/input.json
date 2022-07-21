@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    {
+      "name": "timmy",
+      "friend": "john"
+    },
+    {
+      "name": "lizz",
+      "friend": "seth"
+    },
+    {
+      "name": "john",
+      "friend": "seth"
+    },
+    {
+      "name": "lizz",
+      "friend": "john"
+    }
+  ]
+}
